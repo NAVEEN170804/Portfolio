@@ -66,9 +66,13 @@ cd your-repo-name
 ## 📸 Screenshots
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1227815b-ff5f-4526-b272-6497dc6d98de" />
+
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2b959bcc-fd7a-4f40-9fd3-d2bdc1948057" />
+
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7bb34883-6e82-4a6a-ae21-b1f6f7ffc6d5" />
+
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/01c6d32e-f0f8-4e7d-8c65-87fd44c2c383" />
+
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3509d896-f9fa-49f1-a795-c2b026458c43" />
 
 
